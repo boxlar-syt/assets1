@@ -1,0 +1,11 @@
+{
+    "name": "SyriaToken",
+    "type": "BEP20",
+    "symbol": "SYT",
+    "decimals": 18,
+    "website": "https://t.me/syriatoken_syt",
+    "description": "First Syrian cryptocurrency on Binance Smart Chain",
+    "explorer": "https://bscscan.com/token/0x7e17cD70914E081486b4B2387BE46Bf8480700ED",
+    "status": "active",
+    "id": "0x7e17cD70914E081486b4B2387BE46Bf8480700ED"
+}
